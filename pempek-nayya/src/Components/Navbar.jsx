@@ -49,7 +49,7 @@ export default function Navbar() {
                         <a href="https://www.instagram.com/pempeknayya50/">
                             <i className="bi bi-instagram heading h3"/>
                         </a>
-                        <p className='text-danger'>3404 PALM AVE,<br/>GARUT, JABAR 92154, INDONESIA<br/>(619) 600-3161</p>
+                        <p className='text-danger'><br/>GARUT, JABAR 92154, INDONESIA<br/>(+62) 821 4492 5849</p>
                     </li>
                 </ul>
             </div>
@@ -59,7 +59,6 @@ export default function Navbar() {
             <div
             className='masthead' 
             style={{ backgroundImage: "url(/assets/image.jpg)" }}>
-                Hello World
             </div>
         </main>
     </div>
