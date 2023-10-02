@@ -57,8 +57,7 @@ export default function Navbar() {
         </nav>
         <main className='ps-0 flex-grow-1'>
             <div
-            className='masthead' 
-            style={{ backgroundImage: "url(/assets/image.jpg)" }}>
+            className='masthead'>
             </div>
         </main>
     </div>
